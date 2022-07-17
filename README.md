@@ -9,8 +9,7 @@ ini adalah source code unntuk membuat aplikasi yang membutuhkan From Login untuk
    - Delet User 
 
 ### Fitur Tersedi User
-    - Login dengan akun yang di buat Admin
-
+   - Login dengan akun yang di buat Admin
 ## Akun Admin
 pada akun Admin ini kamu bisa ubah username <i>"appank"</i> dan Password <i>"12345678"> 
 
