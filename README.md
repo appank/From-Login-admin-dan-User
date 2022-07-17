@@ -4,7 +4,7 @@
 ini adalah source code unntuk membuat aplikasi yang membutuhkan From Login untuk Admin dan From Login untuk User, Source Code ini masih menggunakan SQLite dan perlu dikembangkan lagi
 
 ### Fitur Tersedi Admin
-   - Login Menggunakan Akun Admin yang sudah si setting
+   - Login Menggunakan Akun Admin yang sudah di setting
    - Registrasi User (<i>"Tambahkan User" </i>)
    - Delet User 
 
